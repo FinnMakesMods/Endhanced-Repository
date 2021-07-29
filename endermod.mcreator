@@ -1,32 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Jdfiojfo",
-      "type": "tab",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "jdfiojfo"
-    },
-    {
-      "name": "WIGF",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wigf"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "itemGroup.tabjdfiojfo": "Jdfiojfo",
-      "itemGroup.tabwigf": "WIGF"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
