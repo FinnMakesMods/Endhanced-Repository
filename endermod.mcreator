@@ -9,12 +9,40 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "enderite_ore"
+    },
+    {
+      "name": "EnderiteSHard",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_s_hard"
+    },
+    {
+      "name": "EndHut",
+      "type": "structure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_hut"
+    },
+    {
+      "name": "EndHutChests",
+      "type": "loottable",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "end_hut_chests"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.endermod.enderite_s_hard": "Enderite Shard",
       "block.endermod.enderite_ore": "Enderite Ore"
     }
   },
